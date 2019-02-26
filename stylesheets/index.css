@@ -7,10 +7,23 @@ can be mulit-line */
 
 .main-title {
     background: rgba(255, 96, 158, 0.671);
+    /* this */
+    /* padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    /* equals this */
+    padding: 15px 20px;
+    margin: 0;
 }
 
-.fancy-font, .navbar {
+.fancy-font {
     font-family: 'Roboto Mono', monospace;
     color: rgb(57, 177, 204);
+}
+
+.navbar {
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(255, 96, 158);
 }
 
