@@ -1,0 +1,10 @@
+/* is the way to comment in CSS
+can be mulit-line */
+
+/* *{} applies style to the whole doc be careful auto commenting can get fucky */
+
+/* USE Classes to sytle CSS */
+
+.main-title {
+    background: red;
+}
