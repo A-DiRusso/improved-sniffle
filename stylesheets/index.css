@@ -6,5 +6,11 @@ can be mulit-line */
 /* USE Classes to sytle CSS */
 
 .main-title {
-    background: red;
+    background: rgba(255, 96, 158, 0.671);
 }
+
+.fancy-font, .navbar {
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(57, 177, 204);
+}
+
